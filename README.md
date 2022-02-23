@@ -1,7 +1,9 @@
 # PDASS-Physics-informed-HSI-Synthesis-with-Deep-CGAN
 This is the code for paper: Physics-informed Hyperspectral Remote Sensing Image Synthesis with Deep Conditional Generative Adversarial Networks
+
 by: Liqin Liu, Wenyuan Li, Zhenwei Shi and Zhengxia Zou
-submitting to IEEE Transactions on Geoscience and Remote Sensing
+
+Submitting to IEEE Transactions on Geoscience and Remote Sensing
 
 Main Requirements:
 Python 3.5.2 
