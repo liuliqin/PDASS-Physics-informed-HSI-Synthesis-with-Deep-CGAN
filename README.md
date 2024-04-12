@@ -3,7 +3,17 @@ This is the code for paper: Physics-informed Hyperspectral Remote Sensing Image 
 
 by: Liqin Liu, Wenyuan Li, Zhenwei Shi and Zhengxia Zou
 
-Submitting to IEEE Transactions on Geoscience and Remote Sensing
+Please cite this paper:
+
+@article{liu2022physics,
+  title={Physics-informed hyperspectral remote sensing image synthesis with deep conditional generative adversarial networks},
+  author={Liu, Liqin and Li, Wenyuan and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--15},
+  year={2022},
+  publisher={IEEE}
+}
 
 Main Requirements:
 Python 3.5.2 
