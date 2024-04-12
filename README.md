@@ -11,6 +11,10 @@ Pytorch 1.4.0
 Gdal 2.2.2
 
 Train: python grss_generation_physics.py
+
 Test: python grss_generation_physics_test.py
 
 More details: https://pan.baidu.com/s/1sUYt-o0h8XW0o6GxktcESQ?pwd=umct 
+
+The grss_dfc_2018 dataset can be downloaded with the link: 
+https://pan.baidu.com/s/1q3CVQgeQaUxZlLZgOVHYsA?pwd=qu4x
